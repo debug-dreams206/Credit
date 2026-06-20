@@ -82,10 +82,6 @@ The production files will be generated inside the `dist` folder.
 npm run deploy
 ```
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
@@ -104,7 +100,7 @@ This project is licensed under the MIT License.
 
 **Akhila Malekar**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/debug-dreams206
 
 ---
 
